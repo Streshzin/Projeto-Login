@@ -32,7 +32,7 @@ section#login {
     overflow: hidden;
     background-color: white;
     width: 250px;
-    height: 515px;
+    height: 525px;
     border-radius: 20px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.450);
     transform: translate(-50%, -50%);
@@ -105,7 +105,7 @@ form > input[type=submit] {
     background-color: #49a09d;
     color: white;
     border: none;
-    border-radius: 5px;
+    border-radius: 20px;
     cursor: pointer;
 }
 
